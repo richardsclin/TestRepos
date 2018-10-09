@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBrowserApplication1", "WpfBrowserApplication1\WpfBrowserApplication1.csproj", "{8CDD4398-6728-45D2-8E00-E1C14604AD2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication5", "..\WebApplication5\WebApplication5\WebApplication5.csproj", "{F1241392-782C-4F83-9AF9-0B5C42ED331F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8CDD4398-6728-45D2-8E00-E1C14604AD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CDD4398-6728-45D2-8E00-E1C14604AD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CDD4398-6728-45D2-8E00-E1C14604AD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1241392-782C-4F83-9AF9-0B5C42ED331F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1241392-782C-4F83-9AF9-0B5C42ED331F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1241392-782C-4F83-9AF9-0B5C42ED331F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1241392-782C-4F83-9AF9-0B5C42ED331F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
